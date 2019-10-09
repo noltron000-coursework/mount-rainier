@@ -2,7 +2,7 @@
 # Edit at https://www.gitignore.io/?templates=jupyternotebooks
 
 ### General Files ###
-/data
+# /data
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
